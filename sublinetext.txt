@@ -1,2 +1,2 @@
-单行删减  ctrl+shift+l   =>      home
+单行删减 ctrl+A =>  ctrl+shift+l   =>      home
 https://192.168.4.201/svn/GDMK.PunchCard/trunk

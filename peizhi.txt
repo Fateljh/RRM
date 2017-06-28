@@ -1,36 +1,40 @@
-1.vs°²×°ÅäÖÃhttp://www.cnblogs.com/wanghongyun/p/6130057.html
+1.vså®‰è£…é…ç½®http://www.cnblogs.com/wanghongyun/p/6130057.html
 
 
-2.jdk»·¾³ÅäÖÃ http://jingyan.baidu.com/article/6dad5075d1dc40a123e36ea3.html  
-¡°ÎÒµÄµçÄÔ¡±-¡°¸ß¼¶ÏµÍ³ÉèÖÃ¡±-¡°»·¾³±äÁ¿¡±-¡°ÏµÍ³±äÁ¿¡±£¬ÕÒµ½path,
+2.jdkç¯å¢ƒé…ç½® http://jingyan.baidu.com/article/6dad5075d1dc40a123e36ea3.html  
+â€œæˆ‘çš„ç”µè„‘â€-â€œé«˜çº§ç³»ç»Ÿè®¾ç½®â€-â€œç¯å¢ƒå˜é‡â€-â€œç³»ç»Ÿå˜é‡â€ï¼Œæ‰¾åˆ°path,
 
 
-3.IDEA È«³ÆIntelliJ IDEA°²×°£ºhttp://jingyan.baidu.com/article/e75057f2c030ecebc91a89af.html
-ºº»¯·½·¨:
-°Ñresources_cn.jar¸´ÖÆ»ØÔ­°²×°Ä¿Â¼¼´¿É
-¼¤»î·½·¨£ºhttp://www.52pojie.cn/thread-506046-1-1.html
+3.IDEA å…¨ç§°IntelliJ IDEAå®‰è£…ï¼šhttp://jingyan.baidu.com/article/e75057f2c030ecebc91a89af.html
+æ±‰åŒ–æ–¹æ³•:
+æŠŠresources_cn.jarå¤åˆ¶å›åŸå®‰è£…ç›®å½•å³å¯
+æ¿€æ´»æ–¹æ³•ï¼šhttp://www.52pojie.cn/thread-506046-1-1.html
 
 
-git²¿ÊğµØÖ·£ºhttp://192.168.0.131:10101/
-gitÅäÖÃ£ºhttp://www.cnblogs.com/android-joker/p/4513125.html
-git½Ì³Ì£ºhttp://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/
-Git³£ÓÃÃüÁî:http://www.cnblogs.com/cspku/articles/Git_cmds.html
-GitÑ§Ï°±Ê¼ÇÓëIntelliJ IDEAÕûºÏĞ¡Àı×Óhttp://www.tuicool.com/articles/I7BRVr
-gitÉÏ´«±¾µØÎÄ¼şµ½github¼°Òì³£´¦Àí·½°¸:http://blog.csdn.net/chaihuasong/article/details/37911723
-Ê¹ÓÃIntelliJ IDEA·ÖÏí¡¢»ñÈ¡GithubÏîÄ¿:http://blog.csdn.net/xiao_jun_0820/article/details/50387743
+gitéƒ¨ç½²åœ°å€ï¼šhttp://192.168.0.131:10101/
+gité…ç½®ï¼šhttp://www.cnblogs.com/android-joker/p/4513125.html
+gitæ•™ç¨‹ï¼šhttp://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/
+Gitå¸¸ç”¨å‘½ä»¤:http://www.cnblogs.com/cspku/articles/Git_cmds.html
+Gitå­¦ä¹ ç¬”è®°ä¸IntelliJ IDEAæ•´åˆå°ä¾‹å­http://www.tuicool.com/articles/I7BRVr
+gitä¸Šä¼ æœ¬åœ°æ–‡ä»¶åˆ°githubåŠå¼‚å¸¸å¤„ç†æ–¹æ¡ˆ:http://blog.csdn.net/chaihuasong/article/details/37911723
+ä½¿ç”¨IntelliJ IDEAåˆ†äº«ã€è·å–Githubé¡¹ç›®:http://blog.csdn.net/xiao_jun_0820/article/details/50387743
 
 
-mysql·şÎñÅäÖÃ:http://jingyan.baidu.com/article/f3ad7d0ffc061a09c3345bf0.html
+mysqlæœåŠ¡é…ç½®:http://jingyan.baidu.com/article/f3ad7d0ffc061a09c3345bf0.html
 
 
-intellij ideaÊ¹ÓÃMaven(Ò»¶¨ÒªÏÈÅãJDK) ÅäÖÃhttp://jingyan.baidu.com/article/d8072ac45d3660ec94cefd51.html
-intellij idea³£ÓÃÅäÖÃ£ºhttp://www.phperz.com/article/15/0923/159043.html
-IntelliJ Idea ³£ÓÃ¿ì½İ¼ü:http://lavasoft.blog.51cto.com/62575/97730/
+intellij ideaä½¿ç”¨Maven(ä¸€å®šè¦å…ˆé™ªJDK) é…ç½®http://jingyan.baidu.com/article/d8072ac45d3660ec94cefd51.html
+intellij ideaå¸¸ç”¨é…ç½®ï¼šhttp://www.phperz.com/article/15/0923/159043.html
+IntelliJ Idea å¸¸ç”¨å¿«æ·é”®:http://lavasoft.blog.51cto.com/62575/97730/
 
 
-mavenpÅäÖÃ£ºhttp://blog.csdn.net/qq_32588349/article/details/51461182
-mavenÃüÁî:http://www.cnblogs.com/MyFavorite/archive/2012/03/18/2404330.html
-maven´´½¨£ºhttps://my.oschina.net/henghanan/blog/202344
+mavenpé…ç½®ï¼šhttp://blog.csdn.net/qq_32588349/article/details/51461182
+mavenå‘½ä»¤:http://www.cnblogs.com/MyFavorite/archive/2012/03/18/2404330.html
+mavenåˆ›å»ºï¼šhttps://my.oschina.net/henghanan/blog/202344
 
 
-ÕıÔò±í´ïÊ½£ºhttp://www.jb51.net/tools/zhengze.html
+æ­£åˆ™è¡¨è¾¾å¼ï¼šhttp://www.jb51.net/tools/zhengze.html
+
+OAç™»å½•åœ°å€æ˜¯ http://oa.gdmk.cn:88
+liujunheng@gdmk.cn
+liu2998361
